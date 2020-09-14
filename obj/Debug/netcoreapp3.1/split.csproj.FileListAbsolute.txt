@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/split/bin/Debug/netcoreapp3.1/split.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/split/bin/Debug/netcoreapp3.1/split.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/split/bin/Debug/netcoreapp3.1/split.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/split/bin/Debug/netcoreapp3.1/split.dll
+/Users/amorfati/Desktop/dotnet-deneme/split/bin/Debug/netcoreapp3.1/split.pdb
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.dll
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.pdb
+/Users/amorfati/Desktop/dotnet-deneme/split/obj/Debug/netcoreapp3.1/split.genruntimeconfig.cache

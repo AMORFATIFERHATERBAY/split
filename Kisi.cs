@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace split
 {
@@ -13,6 +14,17 @@ namespace split
         public string Soyadi {get; set;}
         public string Tel {get; set;}
         public string Mail {get; set;}
+
+        public void Kaydet(string dosya)
+        {
+            FileStream fs = new FileStream(dosya, FileMode.Append);
+            StreamWriter sw = new StreamWriter(fs);
+
+            sw.WriteLine($"{Adi},{Soyadi},{Tel},{Mail},");
+            sw.Close();
+            Console.WriteLine();
+            Console.WriteLine("Kaydetme basarı ile tamamlandi");
+        }
        
 }
 }

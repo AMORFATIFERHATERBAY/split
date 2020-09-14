@@ -21,11 +21,15 @@ namespace split
                 kisi.Tel = strDizi[2];
                 kisi.Mail = strDizi[3];
             }
+
             Console.WriteLine();
+
             Console.WriteLine("Adi    :" + kisi.Adi);
             Console.WriteLine("Soyadi :" + kisi.Soyadi);
             Console.WriteLine("Tel    :" + kisi.Tel);
             Console.WriteLine("Mail   :" + kisi.Mail);
+
+            kisi.Kaydet("MyText.txt");
 
         }
     }
